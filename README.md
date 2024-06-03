@@ -13,7 +13,7 @@ By the end of these exercises, you should feel more comfortable using Matplotlib
 3. **Inset Plots:** Adding inset plots within a main plot and adjusting their axis limits.
 4. **Subplots:** Creating subplots and adjusting their size and appearance.
 
-**NOTE: ALL THE COMMANDS FOR PLOTTING A FIGURE SHOULD GO IN THE SAME CELL. SEPARATING THEM OUT INTO MULTIPLE CELLS MAY CAUSE NOTHING TO SHOW UP.**
+**NOTE: ALL THE COMMANDS FOR PLOTTING A FIGURE SHOULD GO IN THE SAME CELL. SEPARATING THEM OUT INTO MULTIPLE CELLS MAY CAUSE NOTHING TO SHOW UP. REFER THE NOTEBOOK FOR IMPLEMENTATION**
 ## Data
 
 We will use the following data for all exercises:
