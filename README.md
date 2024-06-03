@@ -1,8 +1,5 @@
 # Matplotlib Exercises
 
-## Provided by AI SOCIETY
-### Trainer: Sameer Nigam
-
 Welcome to the Matplotlib exercises! These exercises are designed to help you practice and understand Matplotlib, a powerful visualization library in Python. 
 
 You'll start with some basic plotting and gradually move to more complex plots. These exercises will help solidify your understanding of Matplotlib, making it easier to create visualizations for your data analysis tasks.
